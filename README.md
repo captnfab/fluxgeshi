@@ -7,4 +7,4 @@ FluxGeSHi allows the posters of FluxBB to quote colored source-code using the [c
   * [Page in FLuxBB Resource Center](http://fluxbb.org/resources/mods/flux-geshi/)
   * [Preview](http://debian-facile.org/viewtopic.php?pid=67138#p67138)
 
-![Screenshot](http://chezlefab.net/poubelle/95724b1b8111083925e8/preview.png)
+![Screenshot](https://raw.github.com/captnfab/fluxgeshi/master/screenshot-01.png)
