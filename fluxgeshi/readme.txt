@@ -13,7 +13,7 @@
 ##      Description:  Allows users to use syntax coloration (thanks to Geshi)
 ##                    with the [code] tag.
 ##
-##   Repository URL:  http://fluxbb.org/resources/mods/xxx (Leave unedited)
+##   Repository URL:  http://fluxbb.org/resources/mods/flux-geshi/
 ##
 ##   Affected files:  include/parser.php
 ##                    include/functions.php
