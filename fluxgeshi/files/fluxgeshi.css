@@ -1,0 +1,32 @@
+.pun .geshicodebox {
+  overflow-y:auto;
+  overflow: auto;
+  width: 90%;
+  direction: ltr;
+  text-align: left;
+  font-size: 11pt;
+  max-height: 32em;
+  white-space: nowrap!;
+  padding: 1em;
+  background-color: rgb(251, 250, 249);
+  color: black;
+  margin: 0.5em;
+  border-color: rgb(85, 85, 85);
+  box-shadow: 0px 0px 5px rgb(187, 187, 187) inset;
+  margin-left: 1em;
+}
+
+.pun div.code_root {
+  margin-left: 0.5em;
+  border-color: rgb(170, 85, 85) rgb(170, 85, 85) rgb(170, 85, 85) rgb(170, 0, 0);
+  box-shadow: 0px 0px 5px rgb(170, 136, 136) inset;
+  border-left: 0.5em solid rgb(170, 0, 0);
+}
+
+.pun div.code_bash {
+  margin-left: 0.5em;
+  border-color: rgb(85, 85, 85);
+  box-shadow: 0px 0px 5px rgb(187, 187, 187) inset;
+  border-left: 0.5em solid rgb(85, 85, 85);
+}
+
