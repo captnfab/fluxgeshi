@@ -12,3 +12,7 @@ the modification can evolve to support other renderers in the future.
   * [Preview](http://debian-facile.org/viewtopic.php?pid=67138#p67138)
 
 ![Screenshot](https://raw.github.com/captnfab/fluxgeshi/master/screenshot-01.png)
+
+  * Download last stable version [here](http://fluxbb.org/resources/mods/flux-geshi/releases/1.0.5/)
+  * Download nightly-build [here](https://github.com/captnfab/fluxgeshi/archive/master.zip)
+
