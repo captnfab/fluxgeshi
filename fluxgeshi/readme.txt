@@ -2,7 +2,7 @@
 ##
 ##        Mod title:  FluxGeshi 1.0
 ##
-##      Mod version:  1.0.5~pre
+##      Mod version:  1.0.5
 ##  Works on FluxBB:  1.5.0-1.5.4
 ##     Release date:  2013-09-16
 ##      Review date:  YYYY-MM-DD (Leave unedited)
