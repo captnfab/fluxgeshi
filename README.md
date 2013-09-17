@@ -1,7 +1,11 @@
 fluxgeshi
 =========
 
-FluxGeSHi allows the posters of FluxBB to quote colored source-code using the [code=lang] [/code] tags.
+This modification allows the posters to quote highlighted (colored) source code
+using the code=lang tag.
+
+The rendering is done with GeSHi ([url]http://qbnz.com/highlighter/[/url]) but
+the modification can evolve to support other renderers in the future.
 
   * [Topic on FluxBB's forum](http://fluxbb.org/forums/viewtopic.php?id=7297)
   * [Page in FLuxBB Resource Center](http://fluxbb.org/resources/mods/flux-geshi/)
